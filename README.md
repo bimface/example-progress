@@ -3,7 +3,7 @@
 基于BIMFACE JS-SDK灵活使用进度模拟应用场景
 
 # 效果图
-![view](resources/img/view.png)
+![view](resource/img/view.png)
 
 # 前端实现
 
