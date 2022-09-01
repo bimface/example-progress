@@ -59,7 +59,7 @@ viewer3D.isolateComponentsById(arr, Glodon.Bimface.Viewer.IsolateOption.MakeOthe
 
 ps. 该Demo基于react+webpack进行开发打包，如用jquery/Vue实现同上。
 
-参考API：[http://doc.bimface.com/book/js/articles/basic/index.html](http://doc.bimface.com/book/js/articles/basic/index.html)
+参考API：[https://bimface.com/docs/model-viewer/v1/api-reference/BimfaceSDKLoader.html](https://bimface.com/docs/model-viewer/v1/api-reference/BimfaceSDKLoader.html)
 
 # 查看示例
 
